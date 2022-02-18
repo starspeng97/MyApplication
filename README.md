@@ -1,4 +1,4 @@
-# MyApplication
+# Software
 
 常用软件
 
@@ -26,7 +26,7 @@
 
 - 文本编辑器
 
-  **[Notepad3](https://www.rizonesoft.com/downloads/notepad3/)** / ~~[Notepad++](https://notepad-plus-plus.org/downloads/)~~ 
+  **[Notepad3](https://www.rizonesoft.com/downloads/notepad3/)** / ~~[Notepad++](https://notepad-plus-plus.org/downloads/)~~ / [Notepad2-mod](https://xhmikosr.github.io/notepad2-mod/) 
 
 - Markdown编辑器
 
@@ -64,6 +64,10 @@
 
   [Foxmail](https://www.foxmail.com/) 
 
+- 密码管理器
+
+  [Bitwarden](https://github.com/bitwarden) 
+
 - 其他
 
   [uTools](https://u.tools/) 
@@ -79,6 +83,10 @@
   [barrier](https://github.com/debauchee/barrier) 
 
   [Mouse without Borders](https://www.microsoft.com/en-us/download/details.aspx?id=35460) 
+
+  [shadowsocksRb](https://github.com/shadowsocksRb/shadowsocksRb-android) 
+
+  [剪切板管理](https://sourceforge.net/projects/ditto-cp/) 
 
 ## Mobile
 
