@@ -22,11 +22,11 @@
 
 - 下载
 
-  IDM / 迅雷 / [比特彗星](https://www.bitcomet.com/cn) / [KinhDown网盘直链](https://kinhdown.kinh.cc/)
+  IDM / 迅雷 / [比特彗星](https://www.bitcomet.com/cn) 
 
 - 文本编辑器
 
-  **[Notepad3](https://www.rizonesoft.com/downloads/notepad3/)** / ~~[Notepad++](https://notepad-plus-plus.org/downloads/)~~ / [Notepad2-mod](https://xhmikosr.github.io/notepad2-mod/) 
+  **[Notepad3](https://www.rizonesoft.com/downloads/notepad3/)** / ~~[Notepad++](https://notepad-plus-plus.org/downloads/)~~ / [Notepad2-mod](https://xhmikosr.github.io/notepad2-mod/) / [Notepad--](https://gitee.com/cxasm/notepad--) 
 
 - Markdown编辑器
 
@@ -38,7 +38,7 @@
 
 - 截图
 
-  [Snipaste](https://zh.snipaste.com/) / QQ截图
+  [Snipaste](https://zh.snipaste.com/) / QQ截图 / [PixPin](https://pixpinapp.com/) 
 
 - 笔记
 
@@ -58,7 +58,7 @@
 
 - 软件卸载
 
-  [GEEK](https://geekuninstaller.com/download) 
+  [GEEK](https://geekuninstaller.com/download) / [Bulk Crap Uninstaller](https://www.bcuninstaller.com/?utm_source=appinn.com) 
 
 - 邮件
 
@@ -67,6 +67,10 @@
 - 密码管理器
 
   [Bitwarden](https://github.com/bitwarden) 
+
+- office安装
+
+  [Office Tool Plus](https://otp.landian.vip) 
 
 - 其他
 
