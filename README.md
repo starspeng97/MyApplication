@@ -22,7 +22,7 @@
 
 - 下载
 
-  IDM / 迅雷 / [比特彗星](https://www.bitcomet.com/cn) 
+  IDM / 迅雷 / [比特彗星](https://www.bitcomet.com/cn) / [motrix](https://motrix.app/) 
 
 - 文本编辑器
 
